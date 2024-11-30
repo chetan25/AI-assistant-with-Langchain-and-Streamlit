@@ -1,0 +1,7 @@
+.env
+__pycache__
+ai-ag/
+main.py
+quickstart.py
+credentials.json
+token.json
